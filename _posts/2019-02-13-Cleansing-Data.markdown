@@ -30,16 +30,16 @@ There are 2 ways to go about this step:
 <Manually>
 1.Load data
 2.Tokenization
- - Tokenization describes splitting paragraphs into sentences, or sentences into
+- Tokenization describes splitting paragraphs into sentences, or sentences into
    individual words.
- - We split by Whitespace and removed punctuation.
- - If we were to split by words we would get "wasn" and "t" from "wasn't"
- - We used Python 3 string funciton
- - maketrans() - this static method returns a translation table usable for str.translate()
- - translate() - Return a copy of a string in which each character has been mapped
+- We split by Whitespace and removed punctuation.
+- If we were to split by words we would get "wasn" and "t" from "wasn't"
+- We used Python 3 string funciton
+- maketrans() - this static method returns a translation table usable for str.translate()
+- translate() - Return a copy of a string in which each character has been mapped
    through the given translation table
 3.Capitalization
- - .lower()
+- .lower()
 
 <NLTK>
 Natural Language Toolkit
