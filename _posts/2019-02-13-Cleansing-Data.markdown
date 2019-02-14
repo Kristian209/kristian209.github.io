@@ -6,7 +6,7 @@ categories: data lit
 ---
 Today I learned how to clean and prepare text data.
 
-**Cleaning text-data**: A typical pre-processing task for data science and machine learning.
+##Cleaning text-data:## A typical pre-processing task for data science and machine learning.
 - It consists of getting rid of the less useful  parts of text through stopword
 removal, dealing with capitalization, special characters and anything else that
 may be useless.
