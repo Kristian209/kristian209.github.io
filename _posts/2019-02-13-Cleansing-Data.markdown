@@ -6,6 +6,9 @@ categories: data lit
 ---
 Today I learned how to clean and prepare text data.
 
+In this exercise we used the book "Metamorphosis" by Franz Kafka as our dataset.
+(We removed footer & header)
+
 **Cleaning text-data:** A typical pre-processing task for data science and machine learning.
 - It consists of getting rid of the less useful  parts of text through stopword
 removal, dealing with capitalization, special characters and anything else that
@@ -14,20 +17,17 @@ may be useless.
 There is a wide-range of text preparation methods that you may need to use.
 - The choice of methods depends on your natural language processing task.
 
-In this exercise we used the book "Metamorphosis" by Franz Kafka as our dataset.
-(We removed footer & header)
-
 **Step 1: Sneak a peek at the data**
 - There were no obvious typos or spelling errors
 - There's punctuation
 - It's very simple
 
-**Step 2: Whitespace/ Punctuation/ Normalize case**
-There are 2 ways to go about this step:
+**Step 2: Whitespace/ Punctuation/ Normalize case**  
+  There are 2 ways to go about this step:
 - Manually
 - Using a NLTK library
 
-**<Manually>**
+**Manually**
 1. Load data
 2. Tokenization  
 - Tokenization describes splitting paragraphs into sentences, or sentences into
@@ -41,7 +41,7 @@ There are 2 ways to go about this step:
 3. Capitalization  
 - .lower()  
 
-**<NLTK>**
+**NLTK**
 Natural Language Toolkit
 - It provides a high-level API to flexibly implement a variety of cleaning methods
 
@@ -69,5 +69,5 @@ Natural Language Toolkit
    for each word) that represents the relation of words so that semantically related
    words are closer together in that high dimensional space.
 
-GitHub:https://github.com/Kristian209/Data-lit/blob/master/metamorphosis_manual_cleaning.py  
-     https://github.com/Kristian209/Data-lit/blob/master/metamorphosis_nltk_cleaning.py
+GitHub: https://github.com/Kristian209/Data-lit/blob/master/metamorphosis_manual_cleaning.py  
+        https://github.com/Kristian209/Data-lit/blob/master/metamorphosis_nltk_cleaning.py
