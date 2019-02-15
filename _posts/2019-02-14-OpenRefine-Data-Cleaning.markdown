@@ -29,7 +29,7 @@ actions.
 - We went from 41895 to 93181 rows (We will merge back later)
 - Due to small inconsistencies like capitalization, misspelling, or whitespaces
 there are more columns than we need, luckily OpenRefine has clustering
-- Rejoin by |(pipe char.)
+- Rejoin by /|(pipe char.)
 - We use GREL (General Refine Expression Language) value.split('\|').uniques().join('\|')
 
 **Export**
