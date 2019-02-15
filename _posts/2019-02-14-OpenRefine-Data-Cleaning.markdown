@@ -24,7 +24,7 @@ Right next to the facets tab, OpenRefine has a tab to undo it has a history of p
 actions.
 
 **Fix Categories Attribute**  
-  Categories column has multiple categories separated by a pipe(\| ) character
+  Categories column has multiple categories separated by a pipe(\|) character
 - We split by the pipe(\|) into their own cell(atomization)
 - We went from 41895 to 93181 rows (We will merge back later)
 - Due to small inconsistencies like capitalization, misspelling, or whitespaces
