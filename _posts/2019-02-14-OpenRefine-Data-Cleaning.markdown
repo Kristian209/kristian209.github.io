@@ -24,13 +24,13 @@ Right next to the facets tab, OpenRefine has a tab to undo it has a history of p
 actions.
 
 **Fix Categories Attribute**  
-  Categories column has multiple categories separated by a pipe( | ) character
-- We split by the pipe( | ) into their own cell(atomization)
+  Categories column has multiple categories separated by a pipe(\| ) character
+- We split by the pipe(\|) into their own cell(atomization)
 - We went from 41895 to 93181 rows (We will merge back later)
 - Due to small inconsistencies like capitalization, misspelling, or whitespaces
 there are more columns than we need, luckily OpenRefine has clustering
 - Rejoin by |(pipe char.)
-- We use GREL (General Refine Expression Language) value.split(' | ').uniques().join(' | ')
+- We use GREL (General Refine Expression Language) value.split('\|').uniques().join('\|')
 
 **Export**
 - Last step is to export file in the same format we imported it(tsv)
