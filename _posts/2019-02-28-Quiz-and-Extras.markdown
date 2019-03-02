@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Data lit: Quiz(1.1) and Extras
+title:  "Data lit: Quiz(1.1) and Extras"
 date:   2019-02-28 12:49:44 -0800
 categories:  data lit
 ---
