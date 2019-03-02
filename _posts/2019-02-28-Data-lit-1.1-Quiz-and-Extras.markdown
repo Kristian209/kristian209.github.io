@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  I'm Back and Proficient in Trigonometry!
+title:  Data lit 1.1 Quiz and Extras
 date:   2019-02-28 12:49:44 -0800
 categories: [khan academy, data lit, books]
 ---
