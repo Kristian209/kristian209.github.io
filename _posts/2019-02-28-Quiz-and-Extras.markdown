@@ -13,3 +13,9 @@ assigned quiz and scored a 100%.
 I also completed the Trigonometry course on Khan Academy within the 2 week "break".
 
 ![Trigcomplete]({{ "/assets/trigcomplete.png" | absolute_url }})
+
+I also started reading a data science book to broaden my understanding of the subject.
+So far it has gone more in detail about how data science as a whole came to be and
+what it actually means and how it was developed.
+
+![Trigcomplete]({{ "/assets/datasciencebook.png" | absolute_url }})
