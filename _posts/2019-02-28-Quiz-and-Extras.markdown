@@ -7,4 +7,9 @@ categories:  data lit
 I'm back!
 I took a 2 week break from the data lit course but before I did I completed the
 assigned quiz and scored a 100%.
-![Pic1]({{ "/assets/quiz1screenshot.png" | absolute_url }})
+
+![Quiz1]({{ "/assets/quiz1screenshot.png" | absolute_url }})
+
+I also completed the Trigonometry course on Khan Academy within the 2 week "break".
+
+![Trigcomplete]({{ "/assets/trigcomplete.png" | absolute_url }})
