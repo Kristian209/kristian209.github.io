@@ -4,22 +4,23 @@ title:  "Data lit: Reading Assignment(1.5)Web Scraping Techniques"
 date:   2019-02-28 12:49:44 -0800
 categories:  data lit
 ---
-*What is Web Scraping?*
+**What is Web Scraping?**
 
 Web Scraping is a technique used to extract data from websites through an automated
 process.
 
-*Use Cases*
+**Use Cases**
 
 - One could compare the prices of two different websites by scraping their pages
 - One could be alarmed if a price of a flight ticket is lowered by crawling the
 travel websites
 
-*Golden Rule*
+**Golden Rule**
 
-**BE NICE TO THE SERVERS; YOU DON'T WANT TO CRASH THE WEBSITE**
+*BE NICE TO THE SERVERS; YOU DON'T WANT TO CRASH THE WEBSITE*
 
-**Steps Using BeautifulSoup w/ Requests**
+*Steps Using BeautifulSoup w/ Requests*
+~~~
 1. You need to understand the website's structure.
    - Inspect the HTML website using your browsers "inspect" option
 2. Import the libraries, do the request, parse the html and then find the class
