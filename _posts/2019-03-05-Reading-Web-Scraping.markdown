@@ -20,14 +20,14 @@ travel websites
 *BE NICE TO THE SERVERS; YOU DON'T WANT TO CRASH THE WEBSITE*
 
 *Steps Using BeautifulSoup w/ Requests*
-~~~
+```
 1. You need to understand the website's structure.
    - Inspect the HTML website using your browsers "inspect" option
 2. Import the libraries, do the request, parse the html and then find the class
 main_price
 3. Avoid pitfalls
    - Check robots.txt
-   - Use specific id rather than class since it is less likely to be changed
+   - Use specific id rather than class since it is less likely to be changed```
    - Check if the element returns None
    - User agent spoofing because every time you visit a website, it gets your
    browser info via "user agent"
@@ -47,3 +47,4 @@ main_price
    - If you extract a huge amount of info from the page and do some preprocessing
    of the data while scraping, the number of requests per second you send to the page
    can be relatively low.
+```
