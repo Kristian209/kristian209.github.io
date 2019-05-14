@@ -8,7 +8,8 @@ I had fun in this project. I already did most of the code(web scraping tweets
   on the keyword "Airpods") during part 1.2 of the course. All I had to do for
   this assignment was the visualization.
 
-**Picking the visualization**
+**Picking the visualization**:
+
 It took me a minute to think of possible
 ways to visualize the data but I came up with doing a bar graph to easily see
 which sentiment was expressed the most in the tweets.
