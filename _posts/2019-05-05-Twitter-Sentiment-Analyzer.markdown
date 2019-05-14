@@ -16,4 +16,4 @@ which sentiment was expressed the most in the tweets.
 Try it for yourself, the link to the jupyter notebook is in my github.
 The tweets constantly change as it mines the most recent tweets.
 
-![twittersentimentvisulization]({{ "/assets/twittersentimentvisulization.png" | absolute_url }})
+![twittersentimentvisulization]({{ "/assets/twittersentimentvis.png" | absolute_url }})
