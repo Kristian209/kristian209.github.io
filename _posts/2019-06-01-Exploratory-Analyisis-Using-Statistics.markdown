@@ -18,4 +18,4 @@ lot more fluid.
 I highly recommend checking out the jupyter notebook I created using Google Colab.
 You can find it on my github which I will link below.
 
-[Jupyter Notebook on Github]: https://github.com/Kristian209/Data-lit/blob/master/Exploratory_analysis_lendingclub.ipynb
+[Jupyter Notebook on Github]: https://github.com/Kristian209/Data-lit/blob/master/Exploratory_analysis_lendingclub.ipynb<https://github.com/Kristian209/Data-lit/blob/master/Exploratory_analysis_lendingclub.ipynb>
