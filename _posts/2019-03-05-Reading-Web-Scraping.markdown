@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Data lit: Reading Assignment(1.5)Web Scraping Techniques"
+title:  "Data lit: Reading Assignment(1.6)Web Scraping Techniques"
 date:   2019-03-05 12:49:44 -0800
 categories:  data lit
 ---

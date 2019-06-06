@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Data-lit: Collections(1.4) OpenRefine Data Cleaning"
+title:  "Data-lit: Collections(1.5) OpenRefine Data Cleaning"
 date:   2019-02-14 12:49:44 -0800
 categories: data lit
 ---

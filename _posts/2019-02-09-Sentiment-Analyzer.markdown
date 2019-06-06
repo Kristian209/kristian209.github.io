@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Data-lit: Collections(1.1) Sentiment Analysis"
+title:  "Data-lit: Collections(1.2) Sentiment Analysis"
 date:   2019-02-09 20:47:44 -0800
 categories: data lit
 ---

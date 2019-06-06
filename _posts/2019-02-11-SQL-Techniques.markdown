@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Data-lit: Collections(1.2) SQL Techniques"
+title:  "Data-lit: Collections(1.3) SQL Techniques"
 date:   2019-02-11 18:49:44 -0800
 categories: data lit
 ---

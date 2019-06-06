@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Data-lit: Collections(1.3) Cleansing Data"
+title:  "Data-lit: Collections(1.4) Cleansing Data"
 date:   2019-02-13 12:49:44 -0800
 categories: data lit
 ---
