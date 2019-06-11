@@ -76,4 +76,40 @@ For the coin flip, Var = (0.5)(1-0.5) = 0.25
 
 •Usually, it can be applied to systems with a large number of possible events, each of which is rare.
 
-++λ^ke^-λ++
+()λ^k e^-) / k!
+
+where,
+k =  0,1,2,3... (number of successes for the event)
+e = 2.71828(Euler's constant)
+λ = mean # of successes in the given time interval or region of space.
+
+***Two conditions of Poisson distribution***
+1. Each successful event must be independent.
+
+2. The probability of success over a short interval must equal the probability of success over a longer interval.
+
+***Expected value & variance of Poisson distributions***
+E(x) = Var(x) = λ
+
+Ex.
+
+A social media brand gains an average of 12 new followers each day.
+Find the probability of gaining 75 followers in a week.
+
+***1.Condition Check***
+•followers are independent of each other
+• the probability is the same
+
+***2.Define Variables***
+•k = 75 (We are looking for 75 followers, so 75 is our number of successes)
+•λ = 12 * 7 = 84(84 new followers in a week)
+
+***3.Poisson Formula***
+
+(84^75 e^-84 ) / 75! = 0.028
+
+The likelihood of getting 75 new followers in a week is 2.8%
+
+***In summary***
+I learned about discrete probability distributions and how to use expected value functions,  how to find variance and standard deviation.
+We worked on sample problems using both Bernoulli and Poisson distribution.
