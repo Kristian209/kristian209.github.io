@@ -76,12 +76,4 @@ For the coin flip, Var = (0.5)(1-0.5) = 0.25
 
 •Usually, it can be applied to systems with a large number of possible events, each of which is rare.
 
-λ^ke^-λ
-
-λ
-k
-e
-−
-λ
-k
-!
+++λ^ke^-λ++
